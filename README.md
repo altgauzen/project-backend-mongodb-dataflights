@@ -1,6 +1,16 @@
-### Termos e acordos
+# project-backend-mongodb-dataflights
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
+
+Este foi um projeto individual feito na Trybe no Módulo de Back-end onde aprendi sobre o Banco de Dados NoSQL MongoDB.
+Algumas habilidades aprendidos:
+- Buscar documentos no banco;
+- Usar filtros na busca;
+- Deletar documentos conforme filtro;
+- Contar documentos compreendidos nos filtros pedidos;
+- Inserir documentos no banco.
+
+Aproveitamento: 100% de aprovação pelos avaliadores da Trybe.
 
 ---
 
